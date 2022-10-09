@@ -72,7 +72,7 @@ public class Calculos {
 		} else {
 			System.out.println("Estude mais!!! ");
 		}
-		System.out.println(this.getValor1() + " + " + this.getValor2() + " = " + this.getResult());
+		System.out.println(this.getValor1() + " - " + this.getValor2() + " = " + this.getResult());
 		return acerto;
 	}
 
@@ -87,7 +87,7 @@ public class Calculos {
 		} else {
 			System.out.println("Estude mais!!! ");
 		}
-		System.out.println(this.getValor1() + " + " + this.getValor2() + " = " + this.getResult());
+		System.out.println(this.getValor1() + " * " + this.getValor2() + " = " + this.getResult());
 		return acerto;
 	}
 
@@ -102,7 +102,7 @@ public class Calculos {
 		} else {
 			System.out.println("Estude mais!!! ");
 		}
-		System.out.println(this.getValor1() + " + " + this.getValor2() + " = " + this.getResult());
+		System.out.println(this.getValor1() + " / " + this.getValor2() + " = " + this.getResult());
 		return acerto;
 	}
 
